@@ -13,9 +13,11 @@ A inicialização demora alguns instantes.
 ### Informações de acesso:
 
 Usuário da vm: pentaho
+
 Senha: goiaba
 
 Usuário mysql: DW
-senha: dw
+
+Senha: dw
 
  
